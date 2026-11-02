@@ -1,32 +1,32 @@
 [
     {
         "time_min":0,
-        "Run1_mol_L_low_T":1.0,
+        "Run1_mol_L":1.0,
         "Run2_mol_L":1.0
     },
     {
         "time_min":10,
-        "Run1_mol_L_low_T":0.74,
+        "Run1_mol_L":0.74,
         "Run2_mol_L":0.61
     },
     {
         "time_min":20,
-        "Run1_mol_L_low_T":0.55,
+        "Run1_mol_L":0.55,
         "Run2_mol_L":0.37
     },
     {
         "time_min":30,
-        "Run1_mol_L_low_T":0.41,
+        "Run1_mol_L":0.41,
         "Run2_mol_L":0.22
     },
     {
         "time_min":40,
-        "Run1_mol_L_low_T":0.3,
+        "Run1_mol_L":0.3,
         "Run2_mol_L":0.14
     },
     {
         "time_min":50,
-        "Run1_mol_L_low_T":0.22,
+        "Run1_mol_L":0.22,
         "Run2_mol_L":0.08
     }
 ]
